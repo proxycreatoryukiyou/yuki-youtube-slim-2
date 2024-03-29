@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-tangolevel
+    name: proxy-creator-yuki-tangolevel-1
     env: python
     region: Oregon
     plan: free
